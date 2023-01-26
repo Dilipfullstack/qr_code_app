@@ -1,4 +1,4 @@
-#QR code generator
+# QR code generator
 Welcome to QR Code Generator, an application that allows you to easily create QR codes for any data or link.
 
 This application is built using JavaScript and includes several key features, such as:
